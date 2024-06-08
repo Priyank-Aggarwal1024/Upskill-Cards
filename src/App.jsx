@@ -4,23 +4,23 @@ import Backoffer from './Backoffer'
 
 const cards = [
   {
-    icon: "./src/assets/Main1.png",
+    icon: "./Main1.png",
     heading: "Creative Designer Combo pack",
     company: [
       {
-        icon: "./src/assets/Icon11.png",
+        icon: "./Icon11.png",
         title: "Adobe Illustrator"
       },
       {
-        icon: "./src/assets/Icon12.png",
+        icon: "./Icon12.png",
         title: "Adobe Photoshop"
       },
       {
-        icon: "./src/assets/Icon13.png",
+        icon: "./Icon13.png",
         title: "Figma"
       },
       {
-        icon: "./src/assets/Icon14.png",
+        icon: "./Icon14.png",
         title: "Adobe Premier pro"
       }
     ],
@@ -29,27 +29,27 @@ const cards = [
     off: "40% OFF "
   },
   {
-    icon: "./src/assets/Main2.png",
+    icon: "./Main2.png",
     heading: "Data Scientist Combo Pack ",
     company: [
       {
-        icon: "./src/assets/Icon21.png",
+        icon: "./Icon21.png",
         title: "SQL"
       },
       {
-        icon: "./src/assets/Icon22.png",
+        icon: "./Icon22.png",
         title: "Machine learning"
       },
       {
-        icon: "./src/assets/Icon23.png",
+        icon: "./Icon23.png",
         title: "Python"
       },
       {
-        icon: "./src/assets/Icon24.png",
+        icon: "./Icon24.png",
         title: "DSA With Python"
       },
       {
-        icon: "./src/assets/Icon25.png",
+        icon: "./Icon25.png",
         title: "Data Science"
       }
     ],
@@ -58,27 +58,27 @@ const cards = [
     off: "40% OFF "
   },
   {
-    icon: "./src/assets/Main3.png",
+    icon: "./Main3.png",
     heading: "App developer Combo pack ",
     company: [
       {
-        icon: "./src/assets/Icon31.png",
+        icon: "./Icon31.png",
         title: "JAVA"
       },
       {
-        icon: "./src/assets/Icon32.png",
+        icon: "./Icon32.png",
         title: "Flutter"
       },
       {
-        icon: "./src/assets/Icon33.png",
+        icon: "./Icon33.png",
         title: "React Native "
       },
       {
-        icon: "./src/assets/Icon34.png",
+        icon: "./Icon34.png",
         title: "React JS"
       },
       {
-        icon: "./src/assets/Icon35.png",
+        icon: "./Icon35.png",
         title: "App develop"
       }
     ],
@@ -87,31 +87,31 @@ const cards = [
     off: "40% OFF "
   },
   {
-    icon: "./src/assets/Main1.png",
+    icon: "./Main1.png",
     heading: "Full Stack Combo pack ",
     company: [
       {
-        icon: "./src/assets/Icon41.png",
+        icon: "./Icon41.png",
         title: "MERN"
       },
       {
-        icon: "./src/assets/Icon42.png",
+        icon: "./Icon42.png",
         title: "React JS"
       },
       {
-        icon: "./src/assets/Icon43.png",
+        icon: "./Icon43.png",
         title: "DSA With Python"
       },
       {
-        icon: "./src/assets/Icon44.png",
+        icon: "./Icon44.png",
         title: "DevOPS"
       },
       {
-        icon: "./src/assets/Icon45.png",
+        icon: "./Icon45.png",
         title: "Python"
       },
       {
-        icon: "./src/assets/Icon46.png",
+        icon: "./Icon46.png",
         title: "DBMS"
       }
     ],
@@ -120,23 +120,23 @@ const cards = [
     off: "40% OFF "
   },
   {
-    icon: "./src/assets/Main2.png",
+    icon: "./Main2.png",
     heading: "Business Combo pack",
     company: [
       {
-        icon: "./src/assets/Icon51.png",
+        icon: "./Icon51.png",
         title: "Stock Market"
       },
       {
-        icon: "./src/assets/Icon52.png",
+        icon: "./Icon52.png",
         title: "FRM"
       },
       {
-        icon: "./src/assets/Icon53.png",
+        icon: "./Icon53.png",
         title: "Technical Research"
       },
       {
-        icon: "./src/assets/Icon54.png",
+        icon: "./Icon54.png",
         title: "Financial Modelling valuation"
       }
     ],
@@ -145,31 +145,31 @@ const cards = [
     off: "40% OFF "
   },
   {
-    icon: "./src/assets/Main3.png",
+    icon: "./Main3.png",
     heading: "Tech Geek Combo pack",
     company: [
       {
-        icon: "./src/assets/Icon61.png",
+        icon: "./Icon61.png",
         title: "Python"
       },
       {
-        icon: "./src/assets/Icon62.png",
+        icon: "./Icon62.png",
         title: "App develop"
       },
       {
-        icon: "./src/assets/Icon63.png",
+        icon: "./Icon63.png",
         title: "Ethical Hacking"
       },
       {
-        icon: "./src/assets/Icon64.png",
+        icon: "./Icon64.png",
         title: "JAVA"
       },
       {
-        icon: "./src/assets/Icon65.png",
+        icon: "./Icon65.png",
         title: "Data Science"
       },
       {
-        icon: "./src/assets/Icon66.png",
+        icon: "./Icon66.png",
         title: "MERN"
       }
     ],
