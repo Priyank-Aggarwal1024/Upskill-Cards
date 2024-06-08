@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import Backoffer from './Backoffer'
 
 const cards = [
   {
@@ -257,6 +258,7 @@ function App() {
           }
         </div>
       </div>
+      <Backoffer />
     </>
   )
 }
